@@ -1,0 +1,10 @@
+Swing for GUI development (UI creation).
+ActionListener for event handling when a user clicks the Add User or Add Book buttons.
+Object-Oriented Programming for class design: 1) Encapsulation:- Each class (e.g., User, Book) holds its own data. 
+                                              2) Abstraction: You’re using methods like addUser() and addBook() to encapsulate behaviors.
+                                              3) Objects: Instances of User and Book are created and added to ArrayLists to manage data.
+ArrayList for dynamic data storage. 
+MVC architecture to structure the code: 1) Model: User, Book classes.
+                                        2) View: GUI components, like text fields and labels.
+                                        3) Controller: ActionListener classes and methods that manipulate data.
+Exception: NumberFormatException :- In the Add Book button’s ActionListener when the user inputs the number of available copies for a book.
