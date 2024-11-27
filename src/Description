@@ -8,3 +8,6 @@ MVC architecture to structure the code: 1) Model: User, Book classes.
                                         2) View: GUI components, like text fields and labels.
                                         3) Controller: ActionListener classes and methods that manipulate data.
 Exception: NumberFormatException :- In the Add Book button’s ActionListener when the user inputs the number of available copies for a book.
+Database Table (MySQL) SQL Statements: 1) CREATE DATABASE: To create the database (library).
+                                       2) CREATE TABLE: To create tables for users, books, and transactions.
+
